@@ -11,8 +11,6 @@ I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 <p  align="center">
 
 </p>
-![My Tech Stacks](assets/e9f0ff97-afcd-48ea-9882-7a39d1d44daa.png)
-
 <br/>
 <h3 align="center">
 My Tech Stacks
