@@ -6,10 +6,10 @@ I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building | 💬
 </h4>
 <p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+
 </p>
 ![My Tech Stacks](assets/e9f0ff97-afcd-48ea-9882-7a39d1d44daa.png)
 
