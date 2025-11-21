@@ -1,64 +1,34 @@
-# 👋 Hi, I'm Ahmed Sayed
+<h1 align="center">Ahmed Sayed</h1>
 
-**ASP.NET & Angular Developer**
-
-Passionate about building clean, scalable web applications using **.NET** on the backend and **Angular** on the frontend.
+<p align="center"><b>ASP.NET Core & Angular Developer</b></p>
 
 ---
 
-## 🔹 About Me
-
-- 💻 I enjoy working with **ASP.NET / ASP.NET Core** and **Angular**
-- 🧩 I love solving problems and writing clean, maintainable code
-- 📚 Always learning more about **software architecture**, **best practices**, and **performance**
-- 🤝 Open to collaboration on interesting **.NET** & **Angular** projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmedElsayed911/AhmedElsayed911/main/assets/tech-banner.png" alt="Tech Stack Banner" width="90%">
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 🔹 About Me
 
-**Backend:**
-- ASP.NET / ASP.NET Core  
-- C#  
-- RESTful APIs  
-
-**Frontend:**
-- Angular  
-- TypeScript  
-- HTML5, CSS3, JavaScript  
-
-**Database & Tools:**
-- SQL Server  
-- Entity Framework Core  
-- Git & GitHub  
+- Full-Stack Developer using **ASP.NET Core + Angular**
+- Passionate about clean architecture & scalable web apps  
+- Always exploring new tech in the .NET ecosystem
 
 ---
 
-## 📂 Projects
+### 🛠 Tech Stack
 
-Here are some of the things I like to work on:
-
-- 🔸 **Web applications** using ASP.NET Core + Angular  
-- 🔸 **Dashboards** and **admin panels**  
-- 🔸 **APIs** for frontend apps and mobile apps  
-
-> I will be adding more projects here soon. Stay tuned!
+**Backend:** ASP.NET Core, C#, EF Core, SQL Server  
+**Frontend:** Angular, TypeScript, HTML, CSS  
+**Tools:** Git, GitHub, REST APIs
 
 ---
 
-## 📈 GitHub Stats
+### 📬 Contact
 
-<!-- You can uncomment these lines after you create your GitHub username correctly -->
-
-<!--
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedElsayed911&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsayed911&layout=compact)
--->
+📧 **Email:** `ahmed.sayed.salem11@gmail.com`  
+👤 **GitHub:** [AhmedElsayed911](https://github.com/AhmedElsayed911)
 
 ---
-
-## 📬 Contact
-
-- 💼 Feel free to reach out to me about **ASP.NET** or **Angular** projects  
-- 📧 Email: `ahmad.sayed.salem11@gmail.com@example.com` <!-- Replace this with your real email -->
-
