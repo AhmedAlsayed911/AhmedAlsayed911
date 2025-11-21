@@ -1,11 +1,11 @@
-![Tech Stack](https://miro.medium.com/v2/resize:fit:1400/1*HXYAjSUtSkzE7r3A2kZZmw.png)
+<img src="/mnt/data/A_2D_digital_graphic_design_showcases_technology_s.png" alt="Tech Stack" width="100%">
 
 # 👋 Hi, I'm **Ahmed Elsayed**
 
 **Full-Stack Developer**  
 Specialized in **ASP.NET** & **Angular**
 
-I build scalable full-stack applications using .NET on the backend and Angular on the frontend. Passionate about clean architecture, maintainability, and modern web technologies.
+I build scalable full-stack applications using .NET on the backend and Angular on the frontend. Passionate about clean architecture, maintainability, and modern web development.
 
 ---
 
