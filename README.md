@@ -27,13 +27,13 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website ASP.NET CORE
   <br>
-  💬 Ask me anything about from <a href="https://github.com/AhmedAlsayed911/" title="Issues">Here</a>
+  💬 Ask me anything from <a href="https://wa.me/01068757912" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: ahmedsayed42032@gmail.com">ahmedsayed42032@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages , Frameworks , Tools and Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
