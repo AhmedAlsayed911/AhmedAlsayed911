@@ -25,7 +25,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website ASP.NET CORE
+  📚 I’m currently learning a lot of courses but the main one is ASP.NET CORE
   <br>
   💬 Ask me anything from <a href="https://wa.me/01068757912" title="Issues">Here</a>
   <br>
